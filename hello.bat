@@ -1,1 +1,1 @@
-echo "Hello jenkin with master branch"
+echo "Hello jenkin with master branch for hook"

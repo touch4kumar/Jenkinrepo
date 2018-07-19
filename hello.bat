@@ -1,1 +1,1 @@
-echo "Hello jenkin with feature branch"
+echo "Hello jenkin with master branch"
